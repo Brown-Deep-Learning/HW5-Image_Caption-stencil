@@ -5,11 +5,9 @@ title: 'HW5 Programming: Image Captioning'
 # HW5 Programming: Image Captioning
 
 :::info
-Programming assignment due **Tuesday, March 23th, 2025 at 6:00 PM EST**
+Programming assignment due **Tuesday, March 24th, 2025 at 11:59 PM EST**
 :::
 
-## Getting the stencil
-Please click <ins>[here](https://classroom.github.com/a/Y6AX2y0i)</ins> to get the stencil code. Reference this <ins>[guide](https://hackmd.io/gGOpcqoeTx-BOvLXQWRgQg)</ins> for more information about GitHub and GitHub Classroom.
 
 :::danger
 **Do not change the stencil except where specified**. Changing the stencil's method signatures or removing pre-defined functions could result in incompatibility with the autograder and result in a low grade.
