@@ -14,7 +14,7 @@ def parse_args(args=None):
     Perform command-line argument parsing (or parse arguments with defaults).
     To parse in an interactive context (e.g. in a notebook), pass a list:
 
-        parse_args(['--type', 'rnn', '--task', 'train', '--data', '../data/data.p'])
+        parse_args(['--type', 'rnn', '--task', 'train', '--data', 'data/data.p'])
     """
     parser = argparse.ArgumentParser(
         description="Let's train some neural nets!",
